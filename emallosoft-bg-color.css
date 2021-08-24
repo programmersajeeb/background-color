@@ -1,0 +1,85 @@
+/* #004882
+#00477e */
+/* #005a9f  */
+::-webkit-scrollbar {
+  background: #00477e !important;
+}
+::-webkit-scrollbar-thumb {
+  background: #1270b8 !important;
+}
+li {
+  color: #eee !important;
+  background: #00477e !important;
+  border-color: #1270b8 !important;
+}
+hr {
+  border-color: #1270b8 !important;
+}
+/* Header Area Background Color Change */
+.navbar-fixed-top {
+  background: #00477e !important;
+}
+nav.navbar-findcond .search-header input {
+  background-color: #005a9f !important;
+}
+/* Home Page Main All Background Color Change */
+.pt_homepg_whote_bg {
+  background: #00477e !important;
+}
+.view_more_link a {
+  background-color: #1270b8 !important;
+  border-color: #1270b8 !important;
+}
+/* Home Page Articles All Background Color Change */
+.articles-content .pt_article_h_list {
+  background: #00477e !important;
+  border: 1px solid #00477e !important;
+}
+.postFooter {
+  border-top: 1px solid #1270b8;
+}
+
+/* Home Page Footer Background Color Change */
+.pt_footer .container-fluid {
+  background: #00477e !important;
+  border-color: #1270b8 !important;
+}
+footer .footer-container {
+  background: #00477e !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
